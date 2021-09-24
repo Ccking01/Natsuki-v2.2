@@ -1,5 +1,5 @@
 __help__ = """
-** EzilaXBotV - A Powerful Telegram Group Manager 🎶 **
+** Devilxprobot - A Powerful Telegram Group Manager 🎶 **
 
 Powerful Abilities
 
@@ -9,6 +9,6 @@ Powerful Abilities
 
 • Youtube Downloader 🎵
 
-Developer [Sadew🇱🇰](https://t.me/Darkridersslk)
+Developer [DgOwner⚡](https://t.me/Dgowner)
 """
 __mod_name__ = "About"
