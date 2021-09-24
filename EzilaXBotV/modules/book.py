@@ -64,14 +64,14 @@ async def _(event):
                 f.write("\n" + title)
                 f.write("\nBook link:- " + link + "\n\n")
 
-        f.write("By @EzilaXBot .")
+        f.write("By @Devilxprobot .")
         f.close()
         caption = "A collabration with Friday.\n Join Support @EZILA_SUPPORT"
 
         await tbot.send_file(
             event.chat_id,
             "book.txt",
-            caption=f"**BOOKS GATHERED SUCCESSFULLY!\n\nBY @EzilaXBot. JOIN THE SUPPORT @EZILA_SUPPORT.**",
+            caption=f"**BOOKS GATHERED SUCCESSFULLY!\n\nBY @Devilxprobot. JOIN THE SUPPORT @Devilxpro.**",
         )
         os.remove("book.txt")
         await KkK.delete()
