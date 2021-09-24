@@ -79,9 +79,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(
-            text="𝚂𝚘𝚞𝚛𝚌𝚎 🗒", url="Github.com/ccking01"
-        ),
+
         InlineKeyboardButton(
             text="Command Help ❓", url="http://t.me/Devilxbot?start=help"
         ),
